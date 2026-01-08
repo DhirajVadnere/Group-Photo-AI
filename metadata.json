@@ -1,0 +1,5 @@
+{
+  "name": "Group Photo AI",
+  "description": "Generate professional and realistic group photos from individual portraits using Gemini's advanced image generation pipeline.",
+  "requestFramePermissions": []
+}
